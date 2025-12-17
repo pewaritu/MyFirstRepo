@@ -1,1 +1,1 @@
-I have learned how to clone and push code.
+What I have learned from this course: I have learned how to clone repositories and manage versions with Git.
